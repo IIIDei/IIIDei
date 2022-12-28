@@ -9,20 +9,14 @@ Actually:
 
 ### Connect with me:
 
-[![img_contact](./img/globe-light.svg)](https://aaaaaaa.com#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://aaaaaaa.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/youtube-light.svg)](https://go.aaaaaaa.com/youtube#gh-light-mode-only)
-[![img_contact](./img/youtube-dark.svg)](https://go.aaaaaaa.com/youtube#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/twitter-light.svg)](https://twitter.com/aaaaaaa#gh-light-mode-only)
-[![img_contact](./img/twitter-dark.svg)](https://twitter.com/aaaaaaa#gh-dark-mode-only)
+[![img_contact](./img/twitter-light.svg)](https://twitter.com/lIIIDei#gh-light-mode-only)
+[![img_contact](./img/twitter-dark.svg)](https://twitter.com/lIIIDei#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/gaëtan-dubernat-a48083260/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gaëtan-dubernat-a48083260/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/instagram-light.svg)](https://instagram.com/aaaaaaaaaaa#gh-light-mode-only)
-[![img_contact](./img/instagram-dark.svg)](https://instagram.com/aaaaaaaaaaa#gh-dark-mode-only)
+[![img_contact](./img/instagram-light.svg)](https://www.instagram.com/gaetandbt_/#gh-light-mode-only)
+[![img_contact](./img/instagram-dark.svg)](https://www.instagram.com/gaetandbt_/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
