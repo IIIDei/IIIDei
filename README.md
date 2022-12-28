@@ -12,16 +12,19 @@ Actually:
 [![img_contact](./img/twitter-light.svg)](https://twitter.com/lIIIDei#gh-light-mode-only)
 [![img_contact](./img/twitter-dark.svg)](https://twitter.com/lIIIDei#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/gaëtan-dubernat-a48083260/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gaëtan-dubernat-a48083260/#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![img_contact](./img/instagram-light.svg)](https://www.instagram.com/gaetandbt_/#gh-light-mode-only)
 [![img_contact](./img/instagram-dark.svg)](https://www.instagram.com/gaetandbt_/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/gaëtan-dubernat-a48083260/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gaëtan-dubernat-a48083260/#gh-dark-mode-only)
 
 ### Languages and Tools:
+<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
