@@ -4,7 +4,7 @@
 Actually:
 
 - 🔭 I’m currently working on the C language
-- 🌱 I’m currently learning Cybersecurity
+- 🔒 I’m currently learning Cybersecurity
 - 📫 How to reach me: **gaetandubernat@orange.fr**
 
 ### Connect with me:
