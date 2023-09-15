@@ -1,5 +1,5 @@
 # Gaëtan
-👋 I'm Gaëtan from France, living in Bordeaux 🍷, 2nd year student at Epitech Digital School, I really enjoy learning languages. 
+👋 I'm Gaëtan from France, living in Bordeaux 🍷, second year student at Epitech Digital School, I really enjoy learning languages. 
 
 Actually:
 
