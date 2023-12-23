@@ -2,8 +2,8 @@
 👋 I'm Gaëtan from France, living in Bordeaux 🍷, second year student at Epitech Digital School.
 
 ### Connect with me:
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/gaëtan-dubernat-a48083260/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gaëtan-dubernat-a48083260/#gh-dark-mode-only)
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/gaëtan-dubernat/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gaëtan-dubernat/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
