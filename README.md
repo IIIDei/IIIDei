@@ -1,5 +1,4 @@
-# Gaëtan
-👋 I'm Gaëtan from France, living in Bordeaux 🍷, second year student at Epitech Digital School.
+👋 Passionate about cybersecurity. Currently revamping my account, so most projects are private. Stay tuned for updates!
 
 ### Connect with me:
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/gaëtan-dubernat/#gh-light-mode-only)
